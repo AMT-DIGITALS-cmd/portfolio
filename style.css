@@ -11,3 +11,21 @@ header {
     padding: 24px;
     text-align: center;
 }
+
+main {
+    max-width: 800px;
+    margin: 24px auto;
+    padding: 0 16px;
+}
+
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #1f3a5f;
+}
